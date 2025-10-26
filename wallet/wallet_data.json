@@ -1,0 +1,14 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "amount": "+$200.00",
+      "type": "Income",
+      "category": "Salary",
+      "description": "No description",
+      "date": "2025-10-26 17:49:07"
+    }
+  ],
+  "balance": "200.00",
+  "last_updated": "2025-10-26T17:49:07.974081"
+}
